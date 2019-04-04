@@ -24,7 +24,11 @@
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
+<<<<<<< HEAD
               <Component id="jTabbedPane1" min="-2" pref="574" max="-2" attributes="0"/>
+=======
+              <Component id="jTabbedPane1" min="-2" pref="523" max="-2" attributes="0"/>
+>>>>>>> ac242b7f71d6b9e99b43205adc75e20fa663f11e
               <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
           </Group>
       </Group>
@@ -58,7 +62,11 @@
           <Layout>
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
+<<<<<<< HEAD
                   <Component id="jScrollPane1" alignment="0" pref="569" max="32767" attributes="0"/>
+=======
+                  <Component id="jScrollPane1" alignment="0" pref="518" max="32767" attributes="0"/>
+>>>>>>> ac242b7f71d6b9e99b43205adc75e20fa663f11e
               </Group>
             </DimensionLayout>
             <DimensionLayout dim="1">
